@@ -85,7 +85,6 @@ export const ui = {
   backMatches: { en: "‹ Matches", zh: "‹ 比赛列表" },
   studyMatch: { en: "Study this match", zh: "刷这场比赛" },
   browseAllLink: { en: "Browse all teams & players", zh: "浏览全部球队与球员" },
-  launchFree: { en: "✨ Free for a limited time", zh: "✨ 限时免费" },
   noMatchesToday: { en: "No matches today — next up:", zh: "今天没有比赛 — 接下来：" },
   matchCards: { en: "cards", zh: "张卡" },
 } as const;

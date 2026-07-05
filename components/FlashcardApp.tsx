@@ -652,7 +652,6 @@ export default function FlashcardApp() {
             >
               {t("browseAllLink")}
             </button>
-            <span className="block mt-1 text-[10px] text-amber-500/70">{t("launchFree")}</span>
           </p>
         </div>
       )}
