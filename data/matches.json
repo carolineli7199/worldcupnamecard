@@ -1240,7 +1240,7 @@
   "team2": "morocco",
   "label1": "canada",
   "label2": "morocco",
-  "score": null,
+  "score": "0–3",
   "pens": null,
   "stage": "Round of 16",
   "venue": "NRG Stadium, Houston"
@@ -1254,7 +1254,7 @@
   "team2": "france",
   "label1": "paraguay",
   "label2": "france",
-  "score": null,
+  "score": "0–1",
   "pens": null,
   "stage": "Round of 16",
   "venue": "Lincoln Financial Field, Philadelphia"
@@ -1344,14 +1344,14 @@
   "venue": "BC Place, Vancouver"
  },
  {
-  "id": "2026-07-09-winnermatch8-winnermatch9",
+  "id": "2026-07-09-france-morocco",
   "date": "2026-07-09",
   "time": "16:00",
   "utcOffset": "-04",
-  "team1": null,
-  "team2": null,
-  "label1": "Winner Match 89",
-  "label2": "Winner Match 90",
+  "team1": "france",
+  "team2": "morocco",
+  "label1": "france",
+  "label2": "morocco",
   "score": null,
   "pens": null,
   "stage": "Quarter-finals",
