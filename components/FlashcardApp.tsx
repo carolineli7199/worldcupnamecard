@@ -8,7 +8,7 @@ import {
 } from "@/lib/i18n";
 import { track } from "@/lib/track";
 import {
-  Match, allMatches, matchesOnLocalDate, localDateStr, localKickoff, trStage,
+  Match, allMatches, matchesOnLocalDate, localDateStr, localKickoff, trStage, matchCity,
 } from "@/lib/matches";
 import { signOut } from "next-auth/react";
 import SignInModal from "@/components/SignInModal";
@@ -636,8 +636,10 @@ export default function FlashcardApp() {
                     </span>
                   </div>
                   <div className="flex items-center justify-between mt-1.5 text-[11px] text-zinc-500">
-                    <span>{trStage(m.stage, lang)} · {m.venue.split(",")[0]}</span>
-                    <span>{m.score ? t("fullTime") : localKickoff(m, lang)}</span>
+                    <span className="min-w-0 truncate pr-2">
+                      {trStage(m.stage, lang)} · {matchCity(m, lang)} · {m.venue.split(",")[0]}
+                    </span>
+                    <span className="shrink-0">{m.score ? t("fullTime") : localKickoff(m, lang)}</span>
                   </div>
                 </button>
               );
