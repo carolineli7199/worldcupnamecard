@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(vercel whoami *)",
+      "Bash(vercel login *)",
+      "Bash(vercel ls *)",
+      "Bash(npm i *)",
+      "Bash(npx tsx *)",
+      "Bash(node -e ' *)",
+      "Bash(node -e 'const j=require\\(\"./data/player-images.json\"\\); console.log\\(\"entries:\", Object.keys\\(j\\).length\\)')",
+      "Bash(node -e 'const j=require\\(\"./data/player-photos.json\"\\); console.log\\(\"local:\", Object.keys\\(j\\).length\\)')",
+      "Bash(openssl rand *)",
+      "Skill(schedule)",
+      "Skill(schedule:*)"
+    ]
+  }
+}
