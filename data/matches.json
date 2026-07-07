@@ -1296,7 +1296,7 @@
   "team2": "spain",
   "label1": "portugal",
   "label2": "spain",
-  "score": null,
+  "score": "0–1",
   "pens": null,
   "stage": "Round of 16",
   "venue": "AT&T Stadium, Arlington"
@@ -1310,7 +1310,7 @@
   "team2": "belgium",
   "label1": "usa",
   "label2": "belgium",
-  "score": null,
+  "score": "1–4",
   "pens": null,
   "stage": "Round of 16",
   "venue": "Lumen Field, Seattle"
@@ -1358,14 +1358,14 @@
   "venue": "Gillette Stadium, Foxborough"
  },
  {
-  "id": "2026-07-10-winnermatch9-winnermatch9",
+  "id": "2026-07-10-spain-belgium",
   "date": "2026-07-10",
   "time": "12:00",
   "utcOffset": "-07",
-  "team1": null,
-  "team2": null,
-  "label1": "Winner Match 93",
-  "label2": "Winner Match 94",
+  "team1": "spain",
+  "team2": "belgium",
+  "label1": "spain",
+  "label2": "belgium",
   "score": null,
   "pens": null,
   "stage": "Quarter-finals",
