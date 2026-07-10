@@ -1352,7 +1352,7 @@
   "team2": "morocco",
   "label1": "france",
   "label2": "morocco",
-  "score": null,
+  "score": "2–0",
   "pens": null,
   "stage": "Quarter-finals",
   "venue": "Gillette Stadium, Foxborough"
@@ -1400,13 +1400,13 @@
   "venue": "Arrowhead Stadium, Kansas City"
  },
  {
-  "id": "2026-07-14-winnermatch9-winnermatch9",
+  "id": "2026-07-14-france-winnermatch9",
   "date": "2026-07-14",
   "time": "14:00",
   "utcOffset": "-05",
-  "team1": null,
+  "team1": "france",
   "team2": null,
-  "label1": "Winner Match 97",
+  "label1": "france",
   "label2": "Winner Match 98",
   "score": null,
   "pens": null,
