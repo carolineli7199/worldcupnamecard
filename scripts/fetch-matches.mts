@@ -84,6 +84,7 @@ function normalizeStage(title: string): string {
   if (/quarter.?finals?/i.test(title)) return "Quarter-finals";
   if (/semi.?finals?/i.test(title)) return "Semi-finals";
   if (/third place/i.test(title)) return "Third place play-off";
+  if (/bronze/i.test(title)) return "Third place play-off";
   if (/final/i.test(title)) return "Final";
   return title;
 }
