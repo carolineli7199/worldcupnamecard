@@ -1366,7 +1366,7 @@
   "team2": "belgium",
   "label1": "spain",
   "label2": "belgium",
-  "score": null,
+  "score": "2–1",
   "pens": null,
   "stage": "Quarter-finals",
   "venue": "SoFi Stadium, Inglewood"
@@ -1400,14 +1400,14 @@
   "venue": "Arrowhead Stadium, Kansas City"
  },
  {
-  "id": "2026-07-14-france-winnermatch9",
+  "id": "2026-07-14-france-spain",
   "date": "2026-07-14",
   "time": "14:00",
   "utcOffset": "-05",
   "team1": "france",
-  "team2": null,
+  "team2": "spain",
   "label1": "france",
-  "label2": "Winner Match 98",
+  "label2": "spain",
   "score": null,
   "pens": null,
   "stage": "Semi-finals",
