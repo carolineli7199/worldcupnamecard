@@ -1380,7 +1380,7 @@
   "team2": "england",
   "label1": "norway",
   "label2": "england",
-  "score": null,
+  "score": "1–2",
   "pens": null,
   "stage": "Quarter-finals",
   "venue": "Hard Rock Stadium, Miami Gardens"
@@ -1394,7 +1394,7 @@
   "team2": "switzerland",
   "label1": "argentina",
   "label2": "switzerland",
-  "score": null,
+  "score": "3–1",
   "pens": null,
   "stage": "Quarter-finals",
   "venue": "Arrowhead Stadium, Kansas City"
@@ -1414,14 +1414,14 @@
   "venue": "AT&T Stadium, Arlington"
  },
  {
-  "id": "2026-07-15-winnermatch9-winnermatch1",
+  "id": "2026-07-15-england-argentina",
   "date": "2026-07-15",
   "time": "15:00",
   "utcOffset": "-04",
-  "team1": null,
-  "team2": null,
-  "label1": "Winner Match 99",
-  "label2": "Winner Match 100",
+  "team1": "england",
+  "team2": "argentina",
+  "label1": "england",
+  "label2": "argentina",
   "score": null,
   "pens": null,
   "stage": "Semi-finals",
