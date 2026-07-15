@@ -1408,7 +1408,7 @@
   "team2": "spain",
   "label1": "france",
   "label2": "spain",
-  "score": null,
+  "score": "0–2",
   "pens": null,
   "stage": "Semi-finals",
   "venue": "AT&T Stadium, Arlington"
@@ -1428,13 +1428,13 @@
   "venue": "Mercedes-Benz Stadium, Atlanta"
  },
  {
-  "id": "2026-07-18-losermatch10-losermatch10",
+  "id": "2026-07-18-france-losermatch10",
   "date": "2026-07-18",
   "time": "17:00",
   "utcOffset": "-04",
-  "team1": null,
+  "team1": "france",
   "team2": null,
-  "label1": "Loser Match 101",
+  "label1": "france",
   "label2": "Loser Match 102",
   "score": null,
   "pens": null,
@@ -1442,13 +1442,13 @@
   "venue": "Hard Rock Stadium, Miami Gardens"
  },
  {
-  "id": "2026-07-19-winnermatch1-winnermatch1",
+  "id": "2026-07-19-spain-winnermatch1",
   "date": "2026-07-19",
   "time": "15:00",
   "utcOffset": "-04",
-  "team1": null,
+  "team1": "spain",
   "team2": null,
-  "label1": "Winner Match 101",
+  "label1": "spain",
   "label2": "Winner Match 102",
   "score": null,
   "pens": null,
