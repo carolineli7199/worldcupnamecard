@@ -815,7 +815,7 @@
   "id": "2026-06-25-turkiye-usa",
   "date": "2026-06-25",
   "time": "19:00",
-  "utcOffset": "-07",
+  "utcOffset": "",
   "team1": "turkiye",
   "team2": "usa",
   "label1": "turkiye",
@@ -1436,7 +1436,7 @@
   "team2": "england",
   "label1": "france",
   "label2": "england",
-  "score": null,
+  "score": "4–6",
   "pens": null,
   "stage": "Third place play-off",
   "venue": "Hard Rock Stadium, Miami Gardens"
